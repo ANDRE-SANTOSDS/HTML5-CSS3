@@ -4,6 +4,7 @@
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
 Meus desafios de HTML5 e CSS3.
+
  <a href="https://andre-santosds.github.io/HTML5-CSS3/desafios/desafio-1/index.HTML" target="_blank" rel="external">Desafio 1</a>
 
  <a href="https://andre-santosds.github.io/HTML5-CSS3/desafios/desafio-2/index.HTML" target="_blank" rel="external">Desafio 2</a>
@@ -25,6 +26,7 @@ Meus desafios de HTML5 e CSS3.
  <a href="https://andre-santosds.github.io/HTML5-CSS3/desafios/desafio-10.2/index.html" target="_blank" rel="external">Desafio 10.2</a>
 
  Meus execícios de HTML5 e CSS3.
+ 
  <a href="https://andre-santosds.github.io/HTML5-CSS3/exercicios/ex001/index.html" target="_blank" rel="external">Exercício 1</a>
 
  <a href="https://andre-santosds.github.io/HTML5-CSS3/exercicios/ex002/index.html" target="_blank" rel="external">Exercício 2</a>

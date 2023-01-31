@@ -25,6 +25,8 @@ Meus desafios de HTML5 e CSS3.
 
  <a href="https://andre-santosds.github.io/HTML5-CSS3/desafios/desafio-10.2/index.html" target="_blank" rel="external">Desafio 10.2</a>
 
+ <a href="https://andre-santosds.github.io/HTML5-CSS3/desafios/desafio-12/index.html" target="_blank" rel="external">Desafio 12</a>
+
  Meus exercícios de HTML5 e CSS3.
 
  <a href="https://andre-santosds.github.io/HTML5-CSS3/exercicios/ex001/index.html" target="_blank" rel="external">Exercício 1</a>
